@@ -75,7 +75,7 @@ int main() {
 		vPoints[i] = Point2f((float)(i * 5), (float)(i % 7));
 	}
 	cout << "A vector of 2D Points =" << vPoints << endl << endl;
-
+	cout << endl;
 
 
 	system("pause");
